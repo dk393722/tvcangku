@@ -1,0 +1,63 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//内置仓库agit线路：https://agit.ai/caesar_518/my/raw/branch/master/myhouse.json
+//内置仓库github线路：https://github.com/caesar518/my/raw/main/myhouse.json
+
+//仓库地址：clan://localhost/myhouse.json//
+{
+    "storeHouse":
+    [
+
+//    {"sourceName":"🧡云星本地","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
+//https://agit.ai/caesar_518/my/raw/branch/master/本地仓库.json//
+
+    {"sourceName":"🧡云星本地","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/本地.json"},
+//https://maoyingshi.cc/可视TV/云星日记/仓库/本地.json//
+
+    {"sourceName":"☁️云星在线","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+//来源https://maoyingshi.cc/可视TV/云星日记/仓库.json//
+
+
+    {"sourceName":"💛欧歌本地1",
+"sourceUrl":"clan://localhost/tvbox/jar/a"},
+    {"sourceName":"💛欧歌本地2",
+"sourceUrl":"clan://localhost/tvbox/张弘/2"},
+//欧歌本地clan://localhost/tvbox/api.json
+
+    {"sourceName": "🌹欧歌主1仓库🌹","sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"},
+//来源欧歌http://tv.nxog.top// 
+
+
+
+    {"sourceName":"☁️大聪明整理","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/duoduo.json"},
+    {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
+    {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
+    {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
+    {"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
+//    {"sourceName":"💚多多极速仓","sourceUrl":"https://codeberg.org/leevi/apps/raw/branch/main/1.txt"},
+//    {"sourceName":"💛多多缓冲仓","sourceUrl":"https://codeberg.org/leevi/apps/raw/branch/main/2.txt"},
+//    {"sourceName":"❤️多多大佬仓","sourceUrl":"https://codeberg.org/leevi/apps/raw/branch/main/3.txt"},
+//    {"sourceName":"🥕多多预备仓","sourceUrl":"https://codeberg.org/leevi/apps/raw/branch/main/4.txt"},   
+//来源应用多多大聪明个人收集整理//
+
+
+    {"sourceName":"🌙星河科技园①","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69627/%E7%B2%BE%E7%AE%801.txt?sign=Bf9irXcAxZFtyv0Z92gw59fcugPGxcsT5Mmp1C4EtQs%3D%3A0"},
+//来源星河科技园http://52bsj.vip:81/api/v3/file/get/69632/%E7%B2%BE%E7%AE%80%E4%BB%93.txt?sign=4AgqJ3XZ4M53AwoyuJmoaXGUS4t-JFyNK2PhsmRDaxc%3D%3A0//
+
+
+{"sourceName":"🏆吾爱💙1仓🏆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
+//吾爱http://52bsj.vip:98/wuaihouse//
+    
+//    {"sourceName": "🧡安卓哥🍑1仓🧡","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+//    {"sourceName": "🧡安卓哥🍑2仓🧡","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+//    {"sourceName": "🧡安卓哥🍑3仓🧡","sourceUrl": "https://raw.fastgit.org/leevi0709/apps/main/3"},
+//    {"sourceName": "🧡安卓哥🍑JS仓🧡","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+//    {"sourceName": "🧡安卓哥🍑PY仓🧡","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
+
+
+    {"sourceName":"✨agit1仓","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"},
+    {"sourceName":"✨agit2仓","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"},
+    {"sourceName":"⛽️github1仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"},
+    {"sourceName":"⛽️github2仓","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"}
+
+    ]
+}
